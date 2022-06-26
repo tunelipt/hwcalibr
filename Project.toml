@@ -1,0 +1,13 @@
+[deps]
+AbstractActuators = "846a0f3d-20fc-416e-8846-8178ce77b5b3"
+AbstractDAQs = "be525c41-cbe2-4c7e-9446-a8e259030c72"
+CurveFit = "5a033b19-8c74-5913-a970-47c3779ef25c"
+DAQenvconds = "2c8b6b38-e32d-4cf2-bfbc-6907a124f4b0"
+DAQespmcp = "789d40ea-46b5-47f7-8583-1a340cbb138e"
+DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
+HDF5 = "f67ccb44-e63f-5c2f-98bd-6dc0ccc4ba2f"
+Hotwire = "d5de4fbe-640e-469d-b7ad-3c69fc3f3f61"
+Psychro = "9516f557-4a54-5a79-b954-c272e753c77a"
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
